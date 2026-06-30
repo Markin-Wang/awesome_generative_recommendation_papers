@@ -1,0 +1,2 @@
+# awesome_generative_recommendation_papers
+awesome industrial generative recommendation papers
