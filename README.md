@@ -1,6 +1,5 @@
 # read-paper-list
-Radiology Report Generation/Medical Report Generation/Image Captioning
-
+Mainly Industrial Generative Recommendation Papers
 ## Years:
 * [2026](#2026) 
 * [2025](#2023) 
